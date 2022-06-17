@@ -1,0 +1,7 @@
+numpy 
+scipy
+cmocean
+matplotlib
+jupyterlab
+seaborn
+h5py
