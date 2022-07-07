@@ -1,5 +1,5 @@
 ## oscillating_shear
-This repository contains code for producing figures from the paper 'Stratified turbulent mixing in oscillating shear flows' by S.F. Lewin and C.P. Caulfield.
+This repository contains code for producing figures from the paper 'Stratified turbulent mixing in oscillating shear flows' by S.F. Lewin and C.P. Caulfield: https://doi.org/10.1017/jfm.2022.537
 
 ## Data
 Data required to produce the figures can be found here: https://www.repository.cam.ac.uk/handle/1810/338871
